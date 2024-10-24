@@ -1,0 +1,17 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+
+}
+.header:hover{
+    text-decoration: underline;
+}
+.img{
+    
+    border-width: 1rem;
+    border-color:bisque;
+    
+}
+.img:hover{
+    border-color: black;
+}
